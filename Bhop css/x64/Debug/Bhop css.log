@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\chias\source\repos\Bhop css\Bhop css\Main.cpp(13,45): warning C4312: 'cast de type' : la conversion de 'DWORD' en 'void *' d'une taille supérieure
+  Bhop css.vcxproj -> C:\Users\chias\source\repos\Bhop css\x64\Debug\Bhop css.exe

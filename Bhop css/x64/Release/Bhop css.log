@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\chias\source\repos\Bhop css\Bhop css\Main.cpp(16,45): warning C4312: 'cast de type' : la conversion de 'DWORD' en 'void *' d'une taille supérieure
+C:\Users\chias\source\repos\Bhop css\Bhop css\Main.cpp(19,49): warning C4312: 'cast de type' : la conversion de 'DWORD' en 'LPVOID' d'une taille supérieure
+C:\Users\chias\source\repos\Bhop css\Bhop css\Main.cpp(24,49): warning C4312: 'cast de type' : la conversion de 'DWORD' en 'LPVOID' d'une taille supérieure
+  Génération de code en cours
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Bhop css.vcxproj -> C:\Users\chias\source\repos\Bhop css\x64\Release\Bhop css.exe
